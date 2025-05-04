@@ -7,7 +7,7 @@
     body {
       margin: 0;
       padding: 0;
-      background: url('pou.png') no-repeat center center fixed;
+      background: url('pou1.png') no-repeat center center fixed;
       background-size: cover;
       font-family: 'Bebas Neue', sans-serif;
       color: white;
